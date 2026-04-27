@@ -35,7 +35,7 @@ nav button.active { color: #16a34a; font-weight: 600; }
 
 .container { max-width: 900px; margin: 2rem auto; padding: 0 1.5rem; }
 
-h1 { font-size: 1.8rem; margin-bottom: 0.5rem; }
+h1 { font-size: 1.8rem; margin-bottom: 0.5rem; color: #111827; }
 .subtitle { color: #111827; margin-bottom: 2rem; }
 
 .grid {
