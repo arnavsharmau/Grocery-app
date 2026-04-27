@@ -36,7 +36,7 @@ nav button.active { color: #16a34a; font-weight: 600; }
 .container { max-width: 900px; margin: 2rem auto; padding: 0 1.5rem; }
 
 h1 { font-size: 1.8rem; margin-bottom: 0.5rem; }
-.subtitle { color: #6b7280; margin-bottom: 2rem; }
+.subtitle { color: #111827; margin-bottom: 2rem; }
 
 .grid {
   display: grid;
@@ -54,7 +54,7 @@ h1 { font-size: 1.8rem; margin-bottom: 0.5rem; }
 
 .emoji { font-size: 2.5rem; margin-bottom: 0.5rem; }
 .card h3 { font-size: 0.9rem; margin-bottom: 0.25rem; }
-.card p { color: #6b7280; font-size: 0.85rem; margin-bottom: 0.75rem; }
+.card p { color: #111827; font-size: 0.85rem; margin-bottom: 0.75rem; }
 
 .card button {
   background: #16a34a;
